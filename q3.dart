@@ -1,5 +1,4 @@
-// Write a program that calculates the sum of all the digits in a given
-// number using a while loop.
+// Write a program that calculates the sum of all the digits in a given number using a while loop.
 import 'dart:io';
 
 void main() {
