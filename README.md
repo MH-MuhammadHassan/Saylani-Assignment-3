@@ -159,9 +159,3 @@ User login successful.
 
 ## Contributions
 Feel free to fork this repository and add more exercises or enhance the existing ones.
-
----
-
-## License
-This project is open-source and available under the MIT License.
-```
