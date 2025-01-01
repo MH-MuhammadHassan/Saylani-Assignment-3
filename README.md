@@ -1,4 +1,4 @@
-# Dart Programming Exercises
+# Dart Programming Exercises Based On Loops, List, Map & Conditions
 
 This repository contains various Dart programming exercises that cover fundamental concepts such as loops, conditionals, and data structures. Below is a list of tasks with their descriptions and expected outcomes.
 
