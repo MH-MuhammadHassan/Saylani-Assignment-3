@@ -21,3 +21,14 @@ void main() {
       ? 'No even numbers found'
       : 'Even Numbers: $evenNumbersList');
 }
+
+
+// <<<<<<<<<<<<Alternate Way>>>>>>>>>>>>>
+// stdout.write('Enter Number List: use space to separate numbers: ');
+//   List<int> numbers = [];
+//   numbers = stdin.readLineSync()!.split(' ').map(int.parse).toList();
+//   for (var i in numbers) {
+//     if (i % 2 == 0) {
+//       print(i);
+//     }
+//   }
